@@ -1,6 +1,6 @@
 # 100 Million Lines of Code
 
-I was annoyed at the 'fact' that A Car Runs on [100 Million Lines of code](https://medium.com/next-level-german-engineering/porsche-future-of-code-526eb3de3bbe)
+I was annoyed at the 'fact' that A Car Runs on [100 Million Lines of code.](https://medium.com/next-level-german-engineering/porsche-future-of-code-526eb3de3bbe)
 Since this is obviously false, (and probably some sort of marketing tactic), I wondered how long it would take to even run 100 Million lines of code.
 
 This project is about seeing what 100 Million lines of code looks like.
