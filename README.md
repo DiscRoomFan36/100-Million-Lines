@@ -27,4 +27,7 @@ make thing
 
 # run it
 time ./thing
+
+# clean it
+make clean
 ```
